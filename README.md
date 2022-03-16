@@ -1,6 +1,6 @@
-# pokemon_uygulama
+# pokemon uygulama
 
-A new Flutter project.
+kopya proje
 
 ## Getting Started
 
